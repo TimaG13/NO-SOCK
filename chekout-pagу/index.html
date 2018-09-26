@@ -12,7 +12,7 @@
 </head>
 <main>
     <header class="container-fluid row wrapper-hd">
-        <nav class="navbar col-lg-10 my-nav">
+        <nav class="navbar col-lg-10 col-md-10 col-sm-10 my-nav">
             <div class="container-fluid">
                 <div class="navbar-header clearfix">
                     <button type="button" class="collapsed navbar-toggle" data-toggle="collapse"
@@ -34,7 +34,7 @@
                 </div>
             </div>
         </nav>
-        <ul class="nav nav-pills col-lg-2 wr-icon" role="tablist">
+        <ul class="nav nav-pills col-lg-2 col-md-2 col-sm wr-icon" role="tablist">
             <li role="presentation"><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
             <li role="presentation"><a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i></a></li>
             <li role="presentation"><a href="#"> <i class="fa fa-shopping-bag" aria-hidden="true"></i><span
@@ -43,10 +43,42 @@
     </header>
     <section class="container-fluid">
         <div class="row">
-            <div class="col-lg-4 my-form">
+
+            <!--/////////////-->
+
+            <!--<div class="panel-group" id="accordion">-->
+            <!--&lt;!&ndash; 2 панель &ndash;&gt;-->
+            <!--<div class="panel panel-default">-->
+            <!--&lt;!&ndash; Заголовок 2 панели &ndash;&gt;-->
+
+            <!--<h4 class="panel-title">-->
+            <!--<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">2. Bootstrap 3 - Начало-->
+            <!--работы</a>-->
+            <!--</h4>-->
+            <!--</div>-->
+            <!--<div id="collapseTwo" class="panel-collapse collapse">-->
+            <!--&lt;!&ndash; Содержимое 2 панели &ndash;&gt;-->
+            <!--<div class="panel-body">-->
+            <!--<p>Изучение технологии лучше всего начать с простого <a-->
+            <!--href="http://itchief.ru/lessons/bootstrap-3/20-lesson-2-getting-started-with-twitter-bootstrap-3"-->
+            <!--target="_blank">урока</a>. На котором изучается как подключить Twitter Bootstrap к-->
+            <!--своему проекту и вывести с помощью него простейший текст.</p>-->
+            <!--</div>-->
+            <!--</div>-->
+            <!--</div>-->
+            <!--</div>-->
+
+            <!--///////////////-->
+
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 panel-group my-form " id="accordion">
                 <div class="wr-form">
-                    <span class="span-h text-center">Personal Detail</span>
-                    <form class="form-horizontal">
+                    <div class="panel-heading">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
+                           class="span-h text-center">Personal
+                            Detail</a>
+                    </div>
+                    <form id="collapseTwo" class="form-horizontal mi--f panel-collapse">
                         <div class="form-group">
                             <div class="col-xs-12 col-lg-12 col-sm-12">
                                 <input type="text" class="form-control" placeholder="name">
@@ -65,10 +97,14 @@
                     </form>
                 </div>
             </div>
-            <div class="col-lg-4 my-form">
+            <!--acorr2-->
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 panel-group my-form" id="accordion2">
                 <div class="wr-form">
-                    <span class="span-h text-center">Billing Address</span>
-                    <form class="form-horizontal">
+                    <div class="panel-heading">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo2"
+                           class="span-h text-center">Billing Address</a>
+                    </div>
+                    <form id="collapseTwo2" class="form-horizontal mi--f panel-collapse">
                         <div class="form-group">
                             <div class="col-xs-12 col-lg-12 col-sm-12">
                                 <input type="text" class="form-control" placeholder="line">
@@ -92,10 +128,13 @@
                     </form>
                 </div>
             </div>
-            <div class="col-lg-4 my-form">
+            <!--acorr3-->
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 panel-group my-form" id="accordion3">
                 <div class="wr-form">
-                    <span class="span-h text-center">Payment Details</span>
-                    <form class="form-horizontal">
+                    <div class="panel-heading">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo3" class="span-h text-center">Payment Details</a>
+                    </div>
+                    <form id="collapseTwo3" class="form-horizontal mi--f panel-collapse">
                         <div class="form-group">
                             <div class="col-xs-12 col-lg-12 col-sm-12">
                                 <input type="text" class="form-control" placeholder="name">
@@ -114,10 +153,12 @@
                         </div>
                         <div class="form-group">
                             <div class="col-xs-12 col-lg-12 col-sm-12 form-box box-two">
-                                <span class="text-inp">exp data</span>
-                                <input type="text" class="form-control m-o" placeholder="">
-                                <i class="line"></i>
-                                <input type="text" class="form-control m-o" placeholder="">
+                                <div>
+                                    <span class="text-inp">exp data</span>
+                                    <input type="text" class="form-control m-o" placeholder="">
+                                    <i class="line"></i>
+                                    <input type="text" class="form-control m-o" placeholder="">
+                                </div>
                                 <button type="button" class="btn text-uppercase">ORDER REVIEW</button>
                             </div>
                         </div>
@@ -130,7 +171,7 @@
 <footer class="panel panel-default">
     <div class="wr-foot-cont">
         <div class="panel-body row">
-            <div class="col-lg-4 col-md-4 col-sm-4 box-link">
+            <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4 box-link">
                 <a href="#">About</a>
                 <a href="#">Contact</a>
                 <a href="#">Shipping info</a>
@@ -138,7 +179,7 @@
                 <a href="#">FAQ’s</a>
                 <a href="#">Privacy & Policy</a>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 box-form">
+            <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4 box-form">
                 <form class="form-horizontal">
                     <span>Newsletters</span>
                     <label for="email">
@@ -147,7 +188,7 @@
                     </label>
                 </form>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 box-soz">
+            <div class="col-lg-4 col-xs-4 col-md-4 col-sm-4 box-soz">
                 <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                 <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -156,7 +197,7 @@
             </div>
         </div>
         <div class="panel-footer text-center">
-            <strong>Copyright  c  2015 Nosockstore All Rights Reserved </strong>
+            <strong>Copyright c 2015 Nosockstore All Rights Reserved </strong>
         </div>
     </div>
 </footer>

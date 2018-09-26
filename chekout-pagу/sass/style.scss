@@ -34,11 +34,11 @@ main {
       .container-fluid {
 
         .navbar-header {
-
+          width: 100%;
           .link-logo {
             height: auto;
             float: left;
-            margin-right: 180px;
+            margin-right: 10%;
           }
           .collapse.my {
             float: left;
@@ -59,9 +59,11 @@ main {
     }
     ul.wr-icon {
       text-align: right;
+      display: flex;
       li {
         float: none;
         display: inline-block;
+
 
         .fa-heart-o {
           font-weight: bold;
@@ -96,6 +98,7 @@ main {
         display: block;
         margin-bottom: 102px;
         font-weight: bold;
+        color: #000;
       }
       form > div > div > input {
         border: none;
@@ -131,15 +134,24 @@ main {
         margin-right: 0;
       }
       i.line {
-        margin: 0 7px 0 31px;
-      }
-      .line {
+        margin: 0 3% 0 3%;
+        position: relative;
+        height: 32px;
+        width: 18px;
         display: inline-block;
-        width: 34px;
-        height: 3px;
-        background: #000;
-        vertical-align: top;
-        transform: rotate(-60deg) translateX(-50%);
+        vertical-align: bottom;
+        &:after{
+          position: absolute;
+          content: "";
+          display: inline-block;
+          top: 0;
+          left: 0;
+          width: 34px;
+          height: 3px;
+          background: #000;
+          vertical-align: top;
+          transform: rotate(-60deg) translateX(-50%);
+        }
       }
       button {
         margin-top: 100px;
@@ -150,6 +162,16 @@ main {
         font-size: 24px;
         font-weight: bold;
         letter-spacing: 3px;
+      }
+      &>div{
+        display: flex;
+        input {
+          border-radius: 0;
+          box-shadow: none;
+          font-size: 18px;
+          color: #333333;
+          padding: 12px 0;
+        }
       }
     }
   }
@@ -195,6 +217,7 @@ footer.panel {
             color: #fff;
             letter-spacing: 2px;
             font-weight: bold;
+            margin-right: 20px;
           }
           label {
             width: 280px;
@@ -258,12 +281,6 @@ footer.panel {
   }
 }
 @media only screen and (max-width: 1500px) {
-  main .wrapper-hd .my-nav .container-fluid .navbar-header .link-logo{
-    margin-right: 120px;
-  }
-  main .my-form .box-two span.text-inp {
-    margin-right: 45px;
-  }
   footer.panel .wr-foot-cont .panel-body .box-link a{
     margin: 0 20px 16px;
   }
@@ -272,5 +289,61 @@ footer.panel {
   }
   main .wrapper-hd .my-nav .container-fluid .navbar-header .collapse.my ul.nav li{
     margin: 0 20px;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  main .my-form .box-two span.text-inp{
+    margin-right: 10px;
+  }
+  main .wrapper-hd .my-nav .container-fluid .navbar-header .link-logo{
+    margin-right: 0;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  main .wrapper-hd ul.wr-icon{
+    font-size: 0;
+    text-align: center;
+  }
+  main .wrapper-hd .my-nav .container-fluid .navbar-header .collapse.my ul.nav li{
+    margin: 0 10px;
+  }
+  main .my-form{
+    padding: 0 20px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .navbar-nav>li>a{
+    padding: 10px;
+  }
+}
+@media only screen and (max-width:980px) {
+  main .wrapper-hd .my-nav .container-fluid .navbar-header .collapse.my{
+    float: none;
+  }
+  main .wrapper-hd .my-nav .container-fluid .navbar-header .collapse.my ul.nav li{
+    margin: 0 5px;
+  }
+  .navbar-brand>img{
+    width: 70%;
+  }
+}
+@media only screen and (max-width:770px) {
+  main .wrapper-hd .my-nav .container-fluid .navbar-header .link-logo{
+    display: none;
+  }
+  .navbar-toggle{
+    float: left;
+    margin-left: 15px;
+  }
+  main .wrapper-hd ul.wr-icon{
+    position: absolute;
+    right: 0;
+    top: 48px;
+  }
+  .navbar-toggle{
+
+    span{
+      background: #000;
+    }
   }
 }
