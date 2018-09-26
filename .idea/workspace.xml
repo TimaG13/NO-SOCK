@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4f16b6e-6b1f-4f85-9637-8628c3b56b20" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6476101">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gulpfile.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="527">
+                  <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/chekout-pagу/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="128" column="7" lean-forward="true" selection-start-line="128" selection-start-column="7" selection-end-line="128" selection-end-column="7" />
+                  <folding>
+                    <element signature="n#main#0;n#html#0;n#!!top" />
+                    <element signature="n#nav#0;n#header#0;n#main#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#section#0;n#main#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#section#0;n#main#0;n#html#0;n#!!top" />
+                    <element signature="n#footer#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chekout-pagу/sass/script.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/chekout-pagу/sass/style.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="283">
+                  <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#3701#3715#0" />
+                    <element signature="e#3710#3728#0" />
+                    <element signature="e#4258#5427#0" />
+                    <element signature="e#4312#5419#0" />
+                    <element signature="e#4313#4339#0" />
+                    <element signature="e#4543#5409#0" />
+                    <element signature="e#4623#5067#0" />
+                    <element signature="e#5019#5053#0" />
+                    <element signature="e#4355#4381#0" />
+                    <element signature="e#5520#5538#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>choose_lang</find>
+      <find>side_menu</find>
+      <find>back_rose</find>
+      <find>box_wrapp</find>
+      <find>opened back_rose</find>
+      <find>opened</find>
+      <find>button</find>
+      <find>box_img</find>
+      <find>navbar-brand</find>
+      <find>fadeInUpBig</find>
+      <find>fadeInUp</find>
+      <find>fadeInUpBigR</find>
+      <find>box-img</find>
+      <find>animated</find>
+      <find>animation-iteration-count</find>
+      <find>gallery-one</find>
+      <find>anim-2-box2</find>
+      <find>myanim2</find>
+      <find>nth-child</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/page1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/page1/css/style.css" />
+        <option value="$PROJECT_DIR$/page1/dest/css/style.css" />
+        <option value="$PROJECT_DIR$/page1/sass/style.sass" />
+        <option value="$PROJECT_DIR$/page1/dest/css/style.min.css" />
+        <option value="$PROJECT_DIR$/page1/pages/OurServices.html" />
+        <option value="$PROJECT_DIR$/page1/home.html" />
+        <option value="$PROJECT_DIR$/page1/dist/js/script.js" />
+        <option value="$PROJECT_DIR$/page1/WhyWe.html" />
+        <option value="$PROJECT_DIR$/page1/contacts.html" />
+        <option value="$PROJECT_DIR$/page1/recommendations.html" />
+        <option value="$PROJECT_DIR$/page1/linkBr.html" />
+        <option value="$PROJECT_DIR$/page1/OurServices.html" />
+        <option value="$PROJECT_DIR$/page1/PriceNameOfTheService.html" />
+        <option value="$PROJECT_DIR$/page1/sass/style.scss" />
+        <option value="$PROJECT_DIR$/page1/index.html" />
+        <option value="$PROJECT_DIR$/paralaxJs/src/jquery/dist/jquery.min.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/dist/js/jQuery.scrollSpeed.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/dist/js/wow.min.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/dist/js/script.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/dist/js/slick.min.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/dist/css/animate.css" />
+        <option value="$PROJECT_DIR$/paralaxJs/src/jquery/jquery.min.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/dist/js/script.min.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/dist/css/style.min.css" />
+        <option value="$PROJECT_DIR$/paralaxJs/sass/style.scss" />
+        <option value="$PROJECT_DIR$/paralaxJs/sass/script.js" />
+        <option value="$PROJECT_DIR$/paralaxJs/index.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/chekout-pagу/sass/script.js" />
+        <option value="$PROJECT_DIR$/chekout-pagу/index.html" />
+        <option value="$PROJECT_DIR$/chekout-pagу/sass/style.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/chekout-pagу/src/bootstrap3/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="270" />
+    <option name="width" value="1163" />
+    <option name="height" value="568" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chekout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chekout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chekout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chekout" type="462c0819:PsiDirectoryNode" />
+              <item name="chekout-pagу" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chekout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chekout" type="462c0819:PsiDirectoryNode" />
+              <item name="chekout-pagу" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/BeautySaloon/page1/OurServices.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4f16b6e-6b1f-4f85-9637-8628c3b56b20" name="Default" comment="" />
+      <created>1526723394882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526723394882</updated>
+      <workItem from="1526723396285" duration="1612000" />
+      <workItem from="1526725134815" duration="1348000" />
+      <workItem from="1526726515061" duration="1758000" />
+      <workItem from="1526730507531" duration="1726000" />
+      <workItem from="1526732409403" duration="1787000" />
+      <workItem from="1526734238194" duration="2266000" />
+      <workItem from="1526737392399" duration="1257000" />
+      <workItem from="1526753494255" duration="884000" />
+      <workItem from="1526754418581" duration="8633000" />
+      <workItem from="1526827744601" duration="2950000" />
+      <workItem from="1526996095748" duration="6133000" />
+      <workItem from="1527075093591" duration="6887000" />
+      <workItem from="1527152301985" duration="1344000" />
+      <workItem from="1527155213852" duration="11902000" />
+      <workItem from="1527240191055" duration="31455000" />
+      <workItem from="1527496499939" duration="18142000" />
+      <workItem from="1527697033998" duration="7171000" />
+      <workItem from="1527843085573" duration="23919000" />
+      <workItem from="1528014507137" duration="6247000" />
+      <workItem from="1528024814170" duration="909000" />
+      <workItem from="1528276319784" duration="22653000" />
+      <workItem from="1528355071330" duration="16066000" />
+      <workItem from="1529851568222" duration="6354000" />
+      <workItem from="1529864050573" duration="22608000" />
+      <workItem from="1530094471075" duration="2698000" />
+      <workItem from="1530187082670" duration="88000" />
+      <workItem from="1530267475751" duration="9613000" />
+      <workItem from="1530530896386" duration="6297000" />
+      <workItem from="1530613629006" duration="6704000" />
+      <workItem from="1530708630881" duration="19078000" />
+      <workItem from="1530792052105" duration="9310000" />
+      <workItem from="1530803746577" duration="1739000" />
+      <workItem from="1530805624861" duration="1752000" />
+      <workItem from="1530807444545" duration="1932000" />
+      <workItem from="1530817188633" duration="1766000" />
+      <workItem from="1530818997712" duration="1768000" />
+      <workItem from="1530820850561" duration="596000" />
+      <workItem from="1530879199395" duration="519000" />
+      <workItem from="1530889478974" duration="21523000" />
+      <workItem from="1530961273660" duration="20777000" />
+      <workItem from="1531003926556" duration="6210000" />
+      <workItem from="1531045954025" duration="7888000" />
+      <workItem from="1531080720253" duration="3726000" />
+      <workItem from="1531143949352" duration="13955000" />
+      <workItem from="1531224567290" duration="8177000" />
+      <workItem from="1531252910646" duration="597000" />
+      <workItem from="1531315724811" duration="3453000" />
+      <workItem from="1531320686003" duration="7542000" />
+      <workItem from="1531397462942" duration="2023000" />
+      <workItem from="1531400989106" duration="3685000" />
+      <workItem from="1531489186131" duration="2417000" />
+      <workItem from="1531506203658" duration="1915000" />
+      <workItem from="1531910069899" duration="2424000" />
+      <workItem from="1531919105977" duration="1590000" />
+      <workItem from="1532012823300" duration="3850000" />
+      <workItem from="1537717898889" duration="10887000" />
+      <workItem from="1537954718634" duration="822000" />
+      <workItem from="1537955743110" duration="1599000" />
+      <workItem from="1537957427267" duration="7540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="402471000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="270" width="1163" height="568" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04088889" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50364965" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13202247" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/page1/index.html" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page1/sass/style.sass" />
+    <entry file="file://$PROJECT_DIR$/page1/index.html" />
+    <entry file="file://$PROJECT_DIR$/page1/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/page1/sass/style.sass" />
+    <entry file="file://$PROJECT_DIR$/page1/dest/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/fonts/Beauty/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/fonts/CenturyGothic-Bold/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/fonts/MinionPro-Regular/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/fonts/TwCenMTStd/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/fonts/MinionPro/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/page1/pages/OurServices.html" />
+    <entry file="file://$PROJECT_DIR$/page1/dist/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/page1/fonts/MinionPro/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/page1/home.html" />
+    <entry file="file://$PROJECT_DIR$/page1/fonts/MyriadPro/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/page1/contacts.html" />
+    <entry file="file://$PROJECT_DIR$/page1/recommendations.html" />
+    <entry file="file://$PROJECT_DIR$/page1/WhyWe.html" />
+    <entry file="file://$PROJECT_DIR$/page1/linkBr.html" />
+    <entry file="file://$PROJECT_DIR$/page1/dist/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/page1/OurServices.html" />
+    <entry file="file://$PROJECT_DIR$/page1/PriceNameOfTheService.html" />
+    <entry file="file://$PROJECT_DIR$/page1/index.html" />
+    <entry file="file://$PROJECT_DIR$/page1/sass/style.scss" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/fonts/Microsoft New Tai Lue/stylesheet.css" />
+    <entry file="file://$USER_HOME$/Downloads/jquery-ui-1.12.1.custom/jquery-ui-1.12.1.custom/jquery-ui.min.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/src/jquery/dist/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/src/jquery/dist/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/js/jQuery.scrollSpeed.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/js/slick.min.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/js/wow.min.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/css/animate.css" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/css/slick.css" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/src/jquery/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/fonts/font-awesome-sass/assets/stylesheets/font-awesome/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/node_modules/clean-css/lib/stringifier/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paralaxJs/fonts/font-awesome-4.7.0/scss/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/js/script.min.js" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/dist/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/sass/style.scss" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/index.html" />
+    <entry file="file://$PROJECT_DIR$/paralaxJs/sass/script.js" />
+    <entry file="file://$PROJECT_DIR$/chekout-pagу/fonts/Microsoft PhagsPa/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chekout-pagу/sass/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chekout-pagу/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="128" column="7" lean-forward="true" selection-start-line="128" selection-start-column="7" selection-end-line="128" selection-end-column="7" />
+          <folding>
+            <element signature="n#main#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#header#0;n#main#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#main#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#section#0;n#main#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chekout-pagу/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+          <folding>
+            <element signature="e#3701#3715#0" />
+            <element signature="e#3710#3728#0" />
+            <element signature="e#4258#5427#0" />
+            <element signature="e#4312#5419#0" />
+            <element signature="e#4313#4339#0" />
+            <element signature="e#4543#5409#0" />
+            <element signature="e#4623#5067#0" />
+            <element signature="e#5019#5053#0" />
+            <element signature="e#4355#4381#0" />
+            <element signature="e#5520#5538#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

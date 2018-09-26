@@ -1,0 +1,276 @@
+@import "../fonts/font-awesome-4.7.0/scss/font-awesome.scss";
+
+@font-face {
+  font-family: FontAwesome;
+  src: url(../../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0);
+  src: url(../../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),
+  url(../../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"),
+  url(../../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"),
+  url(../../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"),
+  url(../../fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
+
+//font
+@font-face {
+  font-family: 'Microsoft PhagsPa';
+  src: url('../../fonts/Microsoft PhagsPa/MicrosoftPhagsPa.woff2') format('woff2'),
+  url('../../fonts/Microsoft PhagsPa/MicrosoftPhagsPa.woff') format('woff'),
+  url('../../fonts/Microsoft PhagsPa/MicrosoftPhagsPa.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+main {
+  max-width: 1560px;
+  margin: 0 auto;
+  font: 24px 'Microsoft PhagsPa', sans-serif;
+  .wrapper-hd {
+    padding: 45px 0;
+    margin-bottom: 70px;
+    .my-nav {
+
+      .container-fluid {
+
+        .navbar-header {
+
+          .link-logo {
+            height: auto;
+            float: left;
+            margin-right: 180px;
+          }
+          .collapse.my {
+            float: left;
+
+            ul.nav {
+
+              li {
+                margin: 0 30px;
+                a {
+                  color: #000000;
+                  font-weight: bold;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    ul.wr-icon {
+      text-align: right;
+      li {
+        float: none;
+        display: inline-block;
+
+        .fa-heart-o {
+          font-weight: bold;
+        }
+        a {
+          position: relative;
+          i {
+            font-size: 29px;
+            color: #1d1d1b;
+          }
+          span.cen {
+            position: absolute;
+            right: 0;
+            top: 0;
+            font-size: 13.5px;
+            background: transparent;
+            color: #000000;
+          }
+        }
+      }
+    }
+  }
+  .my-form {
+    padding: 0 73px;
+    .wr-form {
+
+      .form-group {
+        margin-bottom: 60px;
+      }
+      .span-h {
+        font-size: 24px;
+        display: block;
+        margin-bottom: 102px;
+        font-weight: bold;
+      }
+      form > div > div > input {
+        border: none;
+        border-bottom: 1px solid #333333;
+        border-radius: 0;
+        box-shadow: none;
+        font-size: 18px;
+        color: #333333;
+        padding: 12px 0;
+      }
+    }
+    .form-box {
+
+      span {
+        font-size: 18px;
+        color: #000;
+        margin-right: 85px;
+      }
+      input {
+        max-width: 81px;
+        display: inline-block;
+        margin-right: 45px;
+        border: 1px solid #333333 !important;
+      }
+    }
+    .box-two {
+      position: relative;
+      font-size: 0;
+      span.text-inp {
+        margin-right: 60px;
+      }
+      .m-o {
+        margin-right: 0;
+      }
+      i.line {
+        margin: 0 7px 0 31px;
+      }
+      .line {
+        display: inline-block;
+        width: 34px;
+        height: 3px;
+        background: #000;
+        vertical-align: top;
+        transform: rotate(-60deg) translateX(-50%);
+      }
+      button {
+        margin-top: 100px;
+        padding: 24px 28px;
+        background: #000000;
+        border-radius: 0;
+        color: #ffffff;
+        font-size: 24px;
+        font-weight: bold;
+        letter-spacing: 3px;
+      }
+    }
+  }
+}
+
+footer .panel-footer, footer.panel {
+  background: #000000;
+}
+footer.panel-default{
+  border: none;
+  margin-bottom: 0;
+}
+footer.panel {
+  .wr-foot-cont {
+    max-width: 1560px;
+    margin: 0 auto;
+    .panel-body {
+      padding-top: 78px;
+      padding-bottom: 78px;
+      .box-link {
+        font-size: 0;
+        a {
+          display: inline-block;
+          font-weight: bold;
+          font-size: 18px;
+          color: #ffffff;
+          margin: 0 30px 16px;
+          letter-spacing: 2px;
+          &:nth-child(4n),
+          &:nth-child(5n),
+          &:nth-child(6n) {
+            margin: 0 30px;
+          }
+        }
+      }
+      .box-form {
+        padding-top: 18px;
+        .form-horizontal {
+          display: flex;
+          justify-content: space-around;
+          span {
+            font-size: 18px;
+            color: #fff;
+            letter-spacing: 2px;
+            font-weight: bold;
+          }
+          label {
+            width: 280px;
+            position: relative;
+            & button {
+              position: absolute;
+              top: 50%;
+              right: 0;
+              cursor: pointer;
+              transform: translateY(-50%);
+              background: url("../img/arrow-right.png") center no-repeat;
+              width: 22px;
+              height: 16px;
+              border: none;
+              outline: none;
+              box-shadow: none;
+              opacity: .7;
+              transition: all .3s ease;
+              &:hover {
+                opacity: 1;
+              }
+            }
+            input {
+              outline: none;
+              background: transparent;
+              border-radius: 0;
+              border: none;
+              font-size: 14px;
+              color: #fff;
+              box-shadow: none;
+              padding: 13px 3px;
+              border-bottom: 1px solid #fff;
+            }
+          }
+        }
+      }
+      .box-soz {
+        display: flex;
+        justify-content: space-evenly;
+        padding-left: 70px;
+        margin-top: 17px;
+        a {
+          display: block;
+          font-size: 21px;
+          color: #fff;
+          padding: 5px;
+          &:hover {
+            opacity: .8;
+          }
+        }
+      }
+    }
+    .panel-footer {
+      padding: 37px 15px;
+      strong{
+        font-size: 13px;
+        color: #747474;
+        font-weight: bold;
+      }
+    }
+  }
+}
+@media only screen and (max-width: 1500px) {
+  main .wrapper-hd .my-nav .container-fluid .navbar-header .link-logo{
+    margin-right: 120px;
+  }
+  main .my-form .box-two span.text-inp {
+    margin-right: 45px;
+  }
+  footer.panel .wr-foot-cont .panel-body .box-link a{
+    margin: 0 20px 16px;
+  }
+  footer.panel .wr-foot-cont .panel-body .box-link a:nth-child(4n), footer.panel .wr-foot-cont .panel-body .box-link a:nth-child(5n), footer.panel .wr-foot-cont .panel-body .box-link a:nth-child(6n){
+    margin: 0 20px 0;
+  }
+  main .wrapper-hd .my-nav .container-fluid .navbar-header .collapse.my ul.nav li{
+    margin: 0 20px;
+  }
+}
